@@ -20,6 +20,7 @@ public class Television {
     }
     
     public void setCurrentProgram(int customCurrentProgram){
+        
         this.currentProgram = customCurrentProgram;
     }
     
